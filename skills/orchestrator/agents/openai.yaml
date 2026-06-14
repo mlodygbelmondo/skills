@@ -1,0 +1,7 @@
+interface:
+  display_name: "Orchestrator"
+  short_description: "Run plan tasks with worker and reviewer agents"
+  default_prompt: "Use $orchestrator to execute this pasted plan with worker agents and a final review."
+
+policy:
+  allow_implicit_invocation: false

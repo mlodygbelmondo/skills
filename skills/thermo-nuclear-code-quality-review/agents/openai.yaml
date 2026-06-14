@@ -1,0 +1,7 @@
+interface:
+  display_name: "Thermo-Nuclear Code Quality Review"
+  short_description: "Strict maintainability review: code-judo, 1k-line rule, spaghetti, boundaries"
+  default_prompt: "Use $thermo-nuclear-code-quality-review as a gpt-5.5 xhigh review subagent for the current branch changes."
+
+policy:
+  allow_implicit_invocation: false

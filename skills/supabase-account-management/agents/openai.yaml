@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supabase Account Management"
+  short_description: "Switch and capture Supabase CLI accounts"
+  default_prompt: "Use $supabase-account-management to add or switch Supabase CLI account profiles."
