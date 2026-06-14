@@ -8,6 +8,7 @@ This repository contains local, customized, or user-specific skills that should 
 
 ### Personal workflow skills
 
+- `creative-frontend-builder`
 - `finish-branch-and-ship`
 - `truth-review`
 - `prd-implementation-auditor`
