@@ -1,9 +1,5 @@
 # Skills
 
-Personal Codex/agent skills for Piotr Kaczorowski (`mlodygbelmondo`).
-
-This repository contains local, customized, or user-specific skills that should be easy to reinstall and keep under version control.
-
 ## Contents
 
 ### Personal workflow skills
